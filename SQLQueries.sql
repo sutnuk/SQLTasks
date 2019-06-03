@@ -1,4 +1,4 @@
-USE master;
+CREATE DATABASE tasks;
 
 CREATE TABLE hotels
 (
